@@ -7,7 +7,7 @@ The screenshot below is the visualization of earthquake data set. Data source us
 ![earthquake.png](earthquake.png)
 
 
-Using a second dataset included an additional layer of tectonic plates on the map to illustrate the relationship between tectonic plates and seismic activity. The source for this data is from https://github.com/fraxen/tectonicplates. 
+Using a second dataset, included an additional layer of tectonic plates on the map to illustrate the relationship between tectonic plates and seismic activity. The source for this data is from https://github.com/fraxen/tectonicplates. 
 The following screenshot below illustrates the relationship.
 
 ![eq_tectonic.png](eq_tectonic.png)
